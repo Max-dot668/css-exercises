@@ -1,5 +1,4 @@
 # The Holy Grail of Layout
-
 In this last flexbox exercise you're going to recreate an incredibly common website layout. It is so common that it is often called the [Holy Grail](https://www.google.com/search?q=holy+grail+layout&tbm=isch&sclient=img) layout... and with flexbox it is actually pretty easy to pull off.
 
 As with the previous exercise, we've left a little more for you to do.
@@ -18,7 +17,7 @@ The number of cards lined up in that section will change based on the width of y
 
 On a smaller screen it will look like this:
 
-![smaller](./desired-outcome-smaller.png)
+![smaller](./desired-outcome-smaller.pzng)
 
 Note: The emojis may instead show up as one or several text symbols (e.g. &#9734;&#9794;) if you don't have an emoji-based font family installed on your operating system. This does not affect the exercise and can be ignored.
 
